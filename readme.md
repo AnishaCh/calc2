@@ -1,6 +1,5 @@
 # Calculator Project Setup
-[![Build Status](https://app.travis-ci.com/AnishaCh/calc2.svg?branch=main)](https://app.travis-ci.com/AnishaCh/calc2)pip install -r requirements.txt
-
+[![Build Status](https://app.travis-ci.com/AnishaCh/calc2.svg?branch=refactor1)](https://app.travis-ci.com/AnishaCh/calc2)
 To run tests, Lint, and Coverage report use this command:
 
 pytest  --pylint --cov
